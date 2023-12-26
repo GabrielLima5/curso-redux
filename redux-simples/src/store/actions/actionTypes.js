@@ -1,0 +1,2 @@
+export const MIN_ALTERADO = 'MIN_ALTERADO'
+export const MAX_ALTERADO = 'MAX_ALTERADO'
