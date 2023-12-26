@@ -1,4 +1,4 @@
-# Curso Redux - Cod3r Treinamentos
+# <p align="center">Curso Redux - Cod3r Treinamentos</p>
 <p align="center">
   <img src="https://github.com/GabrielLima5/curso-redux/blob/main/certificado/certificate.jpg?raw=true" alt="Certificado Curso Redux">
 </p>
